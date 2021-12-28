@@ -1,6 +1,5 @@
 ## 文字定位與辨識 - 高階賽 程式說明文件
 
-### 包含 7 個檔案, 4 個 python jupyter files, 2 個 training yml files, 1個 繁體中文字典 file
 
 ## 1. 套件安裝
 
